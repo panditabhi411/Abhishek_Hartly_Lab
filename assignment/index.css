@@ -1,0 +1,259 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.SndDiv {
+    background-color: black;
+    width: 100%;
+    height: 600px;
+}
+.menu{
+    margin-left: 10px;
+}
+.contactBtn{
+    width: 150px;
+    text-align: center;
+    background-color:red ;
+    padding: 10px;
+    margin-top: -18px;
+    color: white;
+}
+.maindiv
+{
+    display: inline; 
+    display: flex;
+    /* margin-left: 92%; */
+     /* margin-top: -62px;  */
+    height: 319px;
+}
+.chain{
+    width: fit-content;
+    margin: 30px;
+    background-color: rgb(231, 220, 220);
+    border-radius: 20px;
+
+    color: #23293C;
+  font-family: SFProDisplay;
+  font-size: 15px;
+  letter-spacing: 0.1px;
+  line-height: 25px;
+
+}
+.p-2{
+    background-color: whitesmoke;
+        height: auto;
+        width: 100%;
+}
+.p-2-2{
+    border: 0.25px solid #C1C1C1;
+}
+.p-3-1{
+    text-decoration: none;
+    float: right
+}
+.p-6-2{
+    background-color: #F5F5F7;
+    border-radius: 25PX;
+    width: 45%;
+    height: 250px;
+    margin: auto;
+    position: relative;
+    margin-top: -140px;
+    padding: 70px 100px;
+    text-align: center;
+}
+.p-6-i_1{
+    border-radius: 500px;
+    width: 42px;
+    height: -8px;
+}
+.p-8-1 {
+    background-color: #F5F5F7;
+    width: 100%;
+    height: 500px;
+}
+.p-8-2{
+
+            color: #FF5043;
+            font-family: Mont;
+            font-size: 72px;
+            letter-spacing: -0.35px;
+            line-height: 80px;
+            text-align: left;
+        
+}
+.p-8-3 {
+    color: #23293C;
+    font-family: Mont;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: left;
+}
+.p-8-4{
+background-color: #F5F5F7;
+    width: 1302px;
+    height: 800px;
+
+}
+.part-8-style{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.careerItems{
+    display: flex;
+}
+.itemHeading{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.careers{
+    display: flex;
+    justify-content: space-between;
+}
+.p-8-mian {
+    background-color: whitesmoke;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.careerItem1 {
+    width: 40%;
+    height: 500px;
+}
+
+.careerItem2 {
+    width: 40%;
+    height: 500px;
+}
+
+.careerItem {
+    display: flex;
+    padding: 3px;
+    justify-content: space-between;
+}
+
+.careersImg {
+    width: 500px;
+    height: 450px;
+}
+.p-9-main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Insights-img{
+    width: 100px;
+    height: 100px;
+}
+.insights {
+    display: flex;
+    justify-content: center;
+
+}
+
+/* .insightsCard{
+			border-radius: 8px;
+			width: 100px;
+			background-color: black;
+		
+		} */
+.lhImg {
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+}
+
+.insightImg {
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.rhTxt {
+    width: 100px;
+}
+
+.img-text {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.rhContent {
+    width: 500px;
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+
+.rhTxt {
+    text-align: center;
+    width: 180px;
+    align-self: center;
+    background-color: whitesmoke;
+}
+
+.m-70 {
+    margin-left: 215px;
+}
+
+.lhContent {
+    background: url("sampleimg.jpg");
+    height: 500px;
+    width: 500px;
+    border-radius: 8px;
+    position: relative;
+    margin-right: 70px;
+}
+
+.insigtsPara {
+    position: absolute;
+    bottom: 0px;
+    padding: 10px;
+    line-height: 140%;
+}
+.p-7-1{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    top: 30px
+}
+.childservices2 {
+    float: right;
+}
+
+.childservices1 {
+    color: #23293C;
+    font-family: Mont;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: left;
+}
+
+.p-3-hide{
+    display: flex;
+    justify-content: space-between;
+}
+
+.subpageimg {
+    width: 500px;
+    height: 390px;
+}
+
+.text {
+    width: 550px;
+}
+
+.plus {
+    display: flex;
+    justify-content: end;
+    margin-top: -30px;
+    padding: 5px;
+
+}
+
+
